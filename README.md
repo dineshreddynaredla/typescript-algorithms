@@ -1,5 +1,17 @@
 # TypeScript Algorithms and Data Structures
 
+- [TypeScript Algorithms and Data Structures](#typescript-algorithms-and-data-structures)
+    - [Data Structures](#data-structures)
+    - [Algorithms](#algorithms)
+        - [Algorithms by Topic](#algorithms-by-topic)
+        - [Algorithms by Paradigm](#algorithms-by-paradigm)
+    - [How to use this repository](#how-to-use-this-repository)
+    - [Useful Information](#useful-information)
+        - [References](#references)
+        - [Big O Notation](#big-o-notation)
+        - [Data Structure Operations Complexity](#data-structure-operations-complexity)
+        - [Array Sorting Algorithms Complexity](#array-sorting-algorithms-complexity)
+
 This repository contains JavaScript based examples of many
 popular algorithms and data structures.
 
