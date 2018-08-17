@@ -97,7 +97,7 @@
     * [Linear Search - B](src/algorithms/search/linear-search/README.md)
     * [Maximum Subarray - A](src/algorithms/sets/maximum-subarray/README.md)
     * [Travelling Salesman Problem - A](src/algorithms/graph/travelling-salesman/README.md)
-    * Test
+    * [Test](src/algorithms/search/linear-search/test.md)
   * [Greedy](greedy.md)
     * [Jump Game - B](src/algorithms/uncategorized/jump-game/README.md)
     * [Unbound Knapsack Problem - B](src/algorithms/sets/knapsack-problem/README.md)
