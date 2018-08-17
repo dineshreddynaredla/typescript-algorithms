@@ -94,6 +94,7 @@
     * [Knight's Tour - A](src/algorithms/uncategorized/knight-tour/README.md)
 * [Algorithms by Paradigm](algorithm-by-paradigm.md)
   * [Brute Force](brute-force.md)
+    * Linear Search - B
   * [Divide and Conquer](divideandqonquer.md)
     * [Binary Search - B](src/algorithms/search/binary-search/README.md)
     * [Tower of Hanoi - B](src/algorithms/uncategorized/hanoi-tower/README.md)
