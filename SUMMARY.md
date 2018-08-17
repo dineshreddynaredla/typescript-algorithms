@@ -100,7 +100,7 @@
   * [Divide and Conquer](divideandqonquer.md)
     * [Binary Search - B](src/algorithms/search/binary-search/README.1.md)
     * [Tower of Hanoi - B](src/algorithms/uncategorized/hanoi-tower/README.md)
-    * [Pascal's Triangle - B](src/algorithms/math/pascal-triangle/README.md)
+    * [Pascal's Triangle - B](src/algorithms/math/pascal-triangle/README.1.md)
     * [Euclidean Algorithm - B](src/algorithms/math/euclidean-algorithm/README.md)
     * [Merge Sort - B](src/algorithms/sorting/merge-sort/README.md)
     * [Quicksort - B](src/algorithms/sorting/quick-sort/README.md)
