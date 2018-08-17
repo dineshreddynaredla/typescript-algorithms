@@ -1,3 +1,4 @@
-    * [Linear Search - B](src/algorithms/search/linear-search/README.md)
-    * [Travelling Salesman Problem - A](src/algorithms/graph/travelling-salesman/README.md)
-    * [Maximum Subarray - A](src/algorithms/sets/maximum-subarray/README.md)
+-   **Brute Force** - look at all the possibilities and selects the best solution
+    -   `B` [Linear Search](src/algorithms/search/linear-search/README.md)
+    -   `A` [Maximum Subarray](src/algorithms/sets/maximum-subarray/README.md)
+    -   `A` [Travelling Salesman Problem](src/algorithms/graph/travelling-salesman/README.md) - shortest possible route that visits each city and returns to the origin city
