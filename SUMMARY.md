@@ -94,7 +94,7 @@
     * [Knight's Tour - A](src/algorithms/uncategorized/knight-tour/README.md)
 * [Algorithms by Paradigm](algorithm-by-paradigm.md)
   * [Brute Force](brute-force.md)
-    * [Linear Search - B](src/algorithms/search/linear-search/README.md)
+    * [Linear Search - B](src/algorithms/search/linear-search/README.1.md)
     * [Travelling Salesman Problem - A](src/algorithms/graph/travelling-salesman/README.md)
     * [Maximum Subarray - A](src/algorithms/sets/maximum-subarray/README.md)
   * [Divide and Conquer](divideandqonquer.md)
