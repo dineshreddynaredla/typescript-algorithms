@@ -67,3 +67,26 @@ and ![unbounded knapsack](https://wikimedia.org/api/rest_v1/media/math/render/sv
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Knapsack_problem)
 - [0/1 Knapsack Problem on YouTube](https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8)
+
+## Formula
+V[i, w] = Max { V[i-1, w], V[i-w-W(i)]+P(i) }
+
+where
+V = matrix table <br>
+i = row <br>
+w = column <br>
+P = profit <br>
+W(i) = Weight at i <br>
+
+For given sets {p, w} or {profit, weight} and available max weight 8 <br>
+{1, 2}, {2, 3}, {5, 4}, {6, 5}
+
+|     |     |     | 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| pi  | wi  | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| 1   | 2   | 1   | 0   | 0   | 1   | 1   | 1   | 1   | 1   | 1   | 1   |
+| 2   | 3   | 2   | 0   | 0   | 1   | 2   | 2   | 3   | 3   | 3   | 3   |
+| 5   | 4   | 3   | 0   | 0   | 1   | 2   | 5   | 5   | 6   | 7   | 7   |
+| 6   | 5   | 4   | 0   | 0   | 1   | 2   | 5   | 6   | 6   | 7   | 8   |
+
+Result { x2, x4 }
