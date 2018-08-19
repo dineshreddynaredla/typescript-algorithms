@@ -1,0 +1,19 @@
+{
+    "gitbook": "3.2.3",
+    "title": "TypeScript Algoritms and Data Structures",
+    "description": "Algorithm for interviews",
+    "language": "en",
+    "plugins": [
+        "include-codeblock",
+        "ace",
+        "prism", 
+        "-highlight"
+    ],
+    "pluginsConfig": {
+        "include-codeblock": {
+            "template": "ace",
+            "unindent": true,
+            "theme": "monokai"
+        }
+    }
+}
