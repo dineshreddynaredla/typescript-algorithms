@@ -55,3 +55,7 @@ Permutations/combinations algorithm ideas.
 
 - [Math Is Fun](https://www.mathsisfun.com/combinatorics/combinations-permutations.html)
 - [Permutations/combinations cheat sheets](https://medium.com/@trekhleb/permutations-combinations-algorithms-cheat-sheet-68c14879aba5)
+
+
+Code:
+[import](permutations.js)
